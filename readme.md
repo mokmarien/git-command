@@ -18,3 +18,9 @@ Permet de pousser les modifications en ligne
 ## git status
 Permet de verifier le statut du repertoire
 Permet de lister les modifications a traiter
+
+##  git log
+Permet de lister les modifications en local
+
+##  git log --oneline
+Permet de lister les modifications en local de facon resumee
