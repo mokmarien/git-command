@@ -24,3 +24,11 @@ Permet de lister les modifications en local
 
 ##  git log --oneline
 Permet de lister les modifications en local de facon resumee
+
+##  git branch "nom branche"
+ Permet de creer une branche appele "nom branche"
+##  git branch 
+Permet de lister toutes branches
+
+## git checkout feature/code-html
+Permet de switcher vers la branche feature/code-html
