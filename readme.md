@@ -14,3 +14,7 @@ Le messqge est important
 
 ## git push
 Permet de pousser les modifications en ligne
+
+## git status
+Permet de verifier le statut du repertoire
+Permet de lister les modifications a traiter
