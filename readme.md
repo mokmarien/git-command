@@ -24,3 +24,4 @@
 
 ##  git log --oneline
 Permet de lister les modifications en local de facon resumee
+
