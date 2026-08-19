@@ -23,5 +23,12 @@
 -Permet de lister les modifications en local
 
 ##  git log --oneline
-Permet de lister les modifications en local de facon resumee
+-Permet de lister les modifications en local de facon resumee
 
+## git branch
+-Permet de creer une branche
+
+## git checkout
+-Permet de passer d'une branche a une autre
+-Permet de se deplacer d'une brache a une autre
+-Avec l'option -b checkout cree la branch si elle n'existe pas
